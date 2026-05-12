@@ -1,0 +1,21 @@
+# Project Roadmap - Eco-Adaptive AI (12 Months)
+
+### Quarter 1: Research & Localization
+- Field research in TTS (Mollo & Kolbano) to record local teacher accents for AI training.
+- Development of the "Fatigue Logic" framework based on student commute distances.
+- Initial hardware setup for IoT environmental sensors.
+
+### Quarter 2: Core Engine Development
+- Integration of OpenAI Whisper for offline transcription.
+- Fine-tuning HuggingFace models for educational summarization in Indonesian/Local context.
+- Building the "Resilience Mode" trigger (Logic that switches UI/UX based on climate data).
+
+### Quarter 3: Pilot Testing & Edge Deployment
+- Deployment of Edge AI servers in 5 pilot schools in TTS.
+- Real-world testing with students walking >5 km.
+- Collecting feedback on "Micro-Summary" effectiveness for exhausted students.
+
+### Quarter 4: Optimization & Open Source Scale-up
+- Refinement of AI models based on pilot data.
+- Releasing full documentation for global use in other remote regions.
+- Establishing data partnership with the Local Education Office.
